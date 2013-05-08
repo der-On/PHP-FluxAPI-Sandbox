@@ -2,6 +2,12 @@
   "name": "flux-api-sandbox",
   "description": "Example project using the flux-api",
   "license": "GPL",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:der-On/PHP-FluxAPI.git"
+    }
+  ],
   "require": {
     "flux-api": ">=0.1"
   },
