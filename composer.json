@@ -12,7 +12,7 @@
     "flux-api": ">=0.1"
   },
   "autoload": {
-    "psr-0": { "Plugins": "plugins" }
+    "psr-0": { "Plugins": "/" }
   },
   "minimum-stability": "dev"
 }
