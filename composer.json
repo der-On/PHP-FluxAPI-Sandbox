@@ -1,0 +1,12 @@
+{
+  "name": "flux-api-sandbox",
+  "description": "Example project using the flux-api",
+  "license": "GPL",
+  "require": {
+    "flux-api": ">=0.1"
+  },
+  "autoload": {
+    "psr-0": { "Plugins": "plugins" }
+  },
+  "minimum-stability": "dev"
+}
