@@ -1,0 +1,16 @@
+{
+  "debug": true,
+  "base_url": "/",
+  "storage.options": {
+    "host": "host",
+    "user": "user",
+    "password": "password",
+    "database": "flux-api"
+  },
+  "permission.options": {
+    "default": "allow"
+  },
+  "plugin.options": {
+    "disabled": []
+  }
+}

@@ -1,0 +1,17 @@
+# Symfony directories
+vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+# Configuration files
+app/config/parameters.ini
+app/config/parameters.yml
+config/*
+
+# IDE files
+.idea
+
+# Composer
+composer.lock
