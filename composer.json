@@ -5,11 +5,12 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.com:der-On/PHP-FluxAPI.git"
+      "url": "git@github.com:der-On/PHP-FluxAPI-Core.git"
     }
   ],
   "require": {
-    "flux-api": ">=0.1"
+    "flux-api": ">=0.1",
+    "composer/installers": "~1.0"
   },
   "autoload": {
     "psr-0": { "Plugins": "/" }
