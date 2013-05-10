@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "flux-api": ">=0.1",
+    "flux-api/core": ">=0.1",
     "flux-api/plugins/flux-api": ">=0.1"
   },
   "autoload": {
