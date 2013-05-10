@@ -10,6 +10,10 @@
     {
       "type": "vcs",
       "url": "git://github.com/der-On/PHP-FluxAPI-Core-Plugins.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/der-On/PHP-FluxAPI-Installers.git"
     }
   ],
   "require": {
