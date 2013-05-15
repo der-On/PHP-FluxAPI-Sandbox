@@ -4,5 +4,3 @@ Use it as a starting point for your own PHP-FluxAPI based apps.
 # Installation
 
     composer install
-    cd Plugins
-    git clone git@github.com:der-On/PHP-FluxAPI-Core-Plugins.git FluxAPI
