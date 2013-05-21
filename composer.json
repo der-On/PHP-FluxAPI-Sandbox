@@ -1,7 +1,7 @@
 {
   "name": "flux-api-sandbox",
   "description": "Example project using the flux-api",
-  "license": "GPL",
+  "license": "GPL-3.0+",
   "repositories": [
     {
       "type": "vcs",
@@ -18,7 +18,7 @@
   ],
   "require": {
     "flux-api/core": ">=0.1",
-    "flux-api/plugins/flux-api": ">=0.1",
+    "flux-api/plugins/flux-api": ">=0.1"
   },
   "autoload": {
     "psr-0": { "Plugins": "./" }
